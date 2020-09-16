@@ -1,0 +1,74 @@
+
+body{
+
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1rem;
+	font-weight: 300;
+	letter-spacing: .05rem;
+	font-weight: bold;
+	color: #010100;
+}
+
+h1, h2, h3, h4, h5 h6, .navbar-brand{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight: 500 !important ; 
+	line-height: 1.5 !important;
+
+}
+.navbar{
+	background-color:#ffffff;
+	box-shadow: 0 1px 2px 0 Rgba(0, 0, 02);*/
+	min-height:  10px;
+
+}
+.nav-link{
+	color: #000000;
+	text-transform: uppercase;
+	font-size: .8rem;
+	
+
+}
+.logo{
+	width: 120px;
+	height: 80px;
+}
+.navbar-toggler{
+	font-size: 40px;
+}
+.navbar-toggler:focus{outline: none;}
+
+#hero{
+	background-image: url("img/logo.png");
+	background-size: cover;
+	padding-top: 90px;
+	min-height: 700px;
+	color: #ffffff;
+
+}
+.height-carousel{
+	max-height: 400px;
+	min-height: 400px;
+}
+.bg-lueviolet{
+    background-color: #64d8cb;
+}
+.height-carousel{
+    max-height:400px;
+    min-height: 400px;
+}
+.icon-redes{
+    font-size: 50px;
+    margin-right: 3% ;
+}
+.fa-facebook-square{
+    color: blue;
+}
+.fa-instagram-square{
+    color: rgb(158, 8, 133);
+}
+.fa-linkedin {
+    color: rgb(36, 36, 177);
+}
+  
+  
